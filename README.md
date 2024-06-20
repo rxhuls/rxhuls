@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 <!--
-**rxhuls/rxhuls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rxhuls/rxhuls** is a ✨ _special_ ✨ repository because its `<div id="header" align="center">
+  <img src="https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F"/>
+</div>` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
